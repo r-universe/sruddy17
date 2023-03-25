@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DoubleExpSeq"]
+	path = DoubleExpSeq
+	url = https://github.com/cran/DoubleExpSeq
+	shallow = true
+	registered = true
